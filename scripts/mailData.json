@@ -1,0 +1,10 @@
+{
+  "Source":"Alcoholimetria <seara.health@gmail.com>",
+  "Template": "MyTemplate",
+  "ConfigurationSetName": "ConfigSetI",
+  "Destination": {
+    "ToAddresses": [ "1664859gustavonajera@gmail.com"
+    ]
+  },
+  "TemplateData": "{ \"name\":\"Alejandro\", \"favoriteanimal\": \"alligator\" }"
+}

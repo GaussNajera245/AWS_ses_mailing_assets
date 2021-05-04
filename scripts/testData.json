@@ -1,0 +1,10 @@
+{
+  "Source":"Alcoholimetria Cardiotrack <seara.health@gmail.com>",
+  "Template": "Testing",
+  "ConfigurationSetName": "ConfigSetI",
+  "Destination": {
+    "ToAddresses": [ "1664859gustavonajera@gmail.com"
+    ]
+  },
+  "TemplateData": "{ \"name\":\"Jessica Moreno\" }"
+}
