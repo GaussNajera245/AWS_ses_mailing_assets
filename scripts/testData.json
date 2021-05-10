@@ -3,7 +3,7 @@
     "Template": "ThumbsDown",
     "ConfigurationSetName": "ConfigSetI",
     "Destination": {
-        "ToAddresses": ["gvt_a9@hotmail.com", "1664859gustavonajera@gmail.com", "operaciones@gruposeara.com"]
+        "ToAddresses": ["gvt_a9@hotmail.com", "1664859gustavonajera@gmail.com", "dev@cardiotrack.care"]
     },
-    "TemplateData": "{ \"name\":\"Jessica Moreno\", \"date\":\"06/Mayo/2021\",\"equipmentId\":\"AmpAll\",\"UTC\":\"18:40:21.543Z\",\"rfid\":\"404079\", \"localHour\":\"13:40:21 GMT-0500 (Central Daylight Time)\"}"
+    "TemplateData": "{ \"name\":\"Humberto de la Rosa\", \"date\":\"10/Mayo/2021\",\"equipmentId\":\"AmpAll\",\"UTC\":\"18:40:21.543Z\",\"rfid\":\"404079\", \"localHour\":\"13:40:21 GMT-0500 (Central Daylight Time)\"}"
 }
