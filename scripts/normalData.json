@@ -5,5 +5,5 @@
     "Destination": {
         "ToAddresses": ["gvt_a9@hotmail.com", "1664859gustavonajera@gmail.com", "dev@cardiotrack.care"]
     },
-    "TemplateData": "{ \"company\":\"CardioDemo\",\"fullName\":\"Alejandra Leyva Mota\",\"rfid\": \"484869\",\"equipmentId\": \"Demo01\",\"date\": \"23/06/21\",\"s\": \"140\",\"d\": \"90\",\"p\": \"72\",\"companyEmployeeId\":\"45656565656\",\"color1\":\"red\",\"color2\":\"red\",\"outsourced\":\"False\"}"
+    "TemplateData": "{ \"company\":\"CardioDemo\",\"fullName\":\"Alejandra Leyva Mota\",\"rfid\": \"484869\",\"equipmentId\": \"Demo01\",\"date\": \"23/06/21\",\"s\": \"140\",\"d\": \"90\",\"p\": \"72\",\"companyEmployeeId\":\"45656565656\",\"colorS\":\"red\",\"colorD\":\"red\",\"outsourced\":\"False\"}"
 }
